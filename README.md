@@ -20,4 +20,6 @@
 
 # OPEN ELABORATED DESIGN
 
+![Image](https://github.com/user-attachments/assets/379d1dd7-c7c5-43a5-81ea-2241c04ad939)
+
 
